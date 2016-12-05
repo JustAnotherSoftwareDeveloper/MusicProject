@@ -1,0 +1,26 @@
+Cs229
+
+Samples	4
+channels 3
+
+BitRes	8
+
+SaMpLeRaTe	11025
+
+StartData
+0					-127	127
+10		45 -103
+# How about a comment in the middle of data
+20		83		-4
+# And some random white space
+
+
+
+30		0		99
+
+
+
+
+
+
+

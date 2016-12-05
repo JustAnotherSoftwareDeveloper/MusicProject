@@ -1,0 +1,23 @@
+Cs229
+
+Samples	4
+channels 3
+
+BitRes	8
+
+SaMpLeRaTe	11025
+
+StartData
+0		-127	127
+10		45		-103
+20		83		-4
+30		0		99
+
+
+
+
+
+
+
+
+# Make sure a bunch of extra empty lines isn't going to trip up your channel parsing
